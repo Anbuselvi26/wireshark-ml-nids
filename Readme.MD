@@ -1,4 +1,4 @@
-# AI-Powered Hybrid Intrusion Detection System (IDS)
+# ML-based Hybrid Intrusion Detection System (IDS)
 
 An intelligent cybersecurity monitoring system that combines **Machine Learning (ML)** and **Deep Learning (DL)** techniques to detect suspicious network activities, analyze packet traffic, and classify anomalies in real time through an interactive Streamlit dashboard.
 
