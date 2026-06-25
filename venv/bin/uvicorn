@@ -1,4 +1,4 @@
-#!/home/anbuselvi/AICS/venv/bin/python3
+#!/home/anbuselvi/Mini_Project/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

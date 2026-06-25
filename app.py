@@ -18,7 +18,7 @@ from sklearn.preprocessing import StandardScaler
 # PAGE CONFIG
 # =========================================================
 st.set_page_config(
-    page_title="SentinelX NIDS",
+    page_title="Packet Capture using Wireshark",
     layout="wide"
 )
 
@@ -132,7 +132,7 @@ BUTTONS
 # =========================================================
 # HEADER
 # =========================================================
-st.title("SentinelX NIDS")
+st.title("Packet Capture using Isolation Forest ")
 
 st.caption(
     "Real-time packet anomaly monitoring and intrusion detection system"
@@ -803,5 +803,5 @@ st.download_button(
 # FOOTER
 # =========================================================
 st.caption(
-    "SentinelX NIDS • ML-Powered Network Intrusion Detection System"
+    ""
 )
